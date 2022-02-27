@@ -82,3 +82,6 @@ This should update all of your badges, links, images, as well as run the inital 
 
 It's as simple as making a new repository from this one and then follow the steps in the [Quick Start](#quick-start) section!
 
+##### Templating a .NET project
+- Templating a project is as simple as using the .NET framework and running `dotnet new <project_template>`. 
+  - A list of templates can be viewed using `dotnet new --list`.
