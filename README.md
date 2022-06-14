@@ -8,22 +8,22 @@
     </p>
     <p>
     <!-- Shields -->
-        <a href="https://github.com/armck-hub/template-dotnet/LICENSE">
-            <img alt="License" src="https://img.shields.io/github/license/armck-hub/template-dotnet.svg" />
+        <a href="https://github.com/armckinney/template-dotnet/LICENSE">
+            <img alt="License" src="https://img.shields.io/github/license/armckinney/template-dotnet.svg" />
         </a>
-        <a href="https://github.com/armck-hub/template-dotnet/actions">
-            <img alt="Tests Passing" src="https://github.com/armck-hub/template-dotnet/workflows/CI/badge.svg" />
+        <a href="https://github.com/armckinney/template-dotnet/actions">
+            <img alt="Tests Passing" src="https://github.com/armckinney/template-dotnet/workflows/CI/badge.svg" />
         </a>
-        <a href="https://codecov.io/gh/armck-hub/template-dotnet">
-            <img alt="Code Coverage" src="https://codecov.io/gh/armck-hub/template-dotnet/branch/master/graph/badge.svg" />
+        <a href="https://codecov.io/gh/armckinney/template-dotnet">
+            <img alt="Code Coverage" src="https://codecov.io/gh/armckinney/template-dotnet/branch/master/graph/badge.svg" />
         </a>
-        <a href="https://github.com/armck-hub/template-dotnet/issues">
-            <img alt="Issues" src="https://img.shields.io/github/issues/armck-hub/template-dotnet" />
+        <a href="https://github.com/armckinney/template-dotnet/issues">
+            <img alt="Issues" src="https://img.shields.io/github/issues/armckinney/template-dotnet" />
         </a>
-        <a href="https://github.com/armck-hub/template-dotnet/pulls">
-            <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/armck-hub/template-dotnet" />
+        <a href="https://github.com/armckinney/template-dotnet/pulls">
+            <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/armckinney/template-dotnet" />
         </a>
-        <a href="https://stackshare.io/armck-hub/template-dotnet">
+        <a href="https://stackshare.io/armck/template-dotnet">
             <img alt="StackShare.io" src="http://img.shields.io/badge/tech-stack-0690fa.svg?label=StackShare.io">
         </a>
     </p>
@@ -31,9 +31,9 @@
     <!-- Links -->
         <a href="#demo">View Demo</a>
         ·
-        <a href="https://github.com/armck-hub/template-dotnet/issues/new/choose">Report Bug</a>
+        <a href="https://github.com/armckinney/template-dotnet/issues/new/choose">Report Bug</a>
         ·
-        <a href="https://github.com/armck-hub/template-dotnet/issues/new/choose">Request Feature</a>
+        <a href="https://github.com/armckinney/template-dotnet/issues/new/choose">Request Feature</a>
     </p>
 </div>
 <br>
@@ -43,7 +43,7 @@
 Here is where you can you a much longer description of your project. You might include features and inspiration here.
 
 The `template-dotnet` repository adds some nifty and time-saving features like:
-- *All of the benefits of [template-ubuntu](https://github.com/ARMcK-hub/template-ubuntu) PLUS..*
+- *All of the benefits of [template-ubuntu](https://github.com/armckinney/template-ubuntu) PLUS..*
 - .NET SDK Installation
 - C# Extension
 
