@@ -5,20 +5,24 @@
 	],
 	"service": "dev-container",
 	"workspaceFolder": "/workspaces/template-dotnet",
-	"settings": {
-		"terminal.integrated.profiles.linux": {
-			"bash": {
-				"path": "bash",
-				"icon": "terminal-bash"
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"terminal.integrated.profiles.linux": {
+					"bash": {
+						"path": "bash",
+						"icon": "terminal-bash"
+					},
+					"pwsh": {
+						"path": "pwsh",
+						"icon": "terminal-powershell"
+					}
+				}
 			},
-			"pwsh": {
-				"path": "pwsh",
-				"icon": "terminal-powershell"
-			}
+			"extensions": [
+				"shd101wyy.markdown-preview-enhanced",
+				"ms-dotnettools.csharp"
+			]
 		}
-	},
-	"extensions": [
-		"shd101wyy.markdown-preview-enhanced",
-		"ms-dotnettools.csharp"
-	]
+	}
 }
