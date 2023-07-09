@@ -21,7 +21,8 @@
 			},
 			"extensions": [
 				"shd101wyy.markdown-preview-enhanced",
-				"ms-dotnettools.csharp"
+				"ms-dotnettools.csharp",
+				"hashicorp.terraform"
 			]
 		}
 	}
