@@ -46,6 +46,7 @@ The `template-dotnet` repository adds some nifty and time-saving features like:
 - *All of the benefits of [template-ubuntu](https://github.com/armckinney/template-ubuntu) PLUS..*
 - .NET SDK Installation
 - C# Extension
+- Azure Container App Deployment
 
 
 ### Quick Start
