@@ -1,5 +1,4 @@
-
-FROM armck/dotnet-base:latest
+FROM armck/dotnet:7.0
 
 LABEL   deployable="false" \
         decription="This is the development version of the application container. \
